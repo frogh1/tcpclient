@@ -1,2 +1,2 @@
 # tcpclient
-tcpclient keepalive
+keepalive and auto reconnection if Disconnect
